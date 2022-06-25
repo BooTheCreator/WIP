@@ -1,7 +1,7 @@
-owner = BEL
-controller = BEL
+owner = HRE
+controller = HRE
+add_core = HRE
 add_core = LUX
-add_core = NET
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

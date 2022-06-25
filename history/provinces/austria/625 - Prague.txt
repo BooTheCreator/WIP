@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
+owner = GRM
+controller = GRM
+add_core = GRM
 add_core = BOH
 add_core = CZH
 trade_goods = coal

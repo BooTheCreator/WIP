@@ -5,6 +5,26 @@ REB     =     "countries/rebels.txt"
 
 ##LED Europe
 ENG        = "countries/The Bryten Kingdom.txt"
+HRE        = "countries/Holy Roman Empire.txt"
+
+##LED Scandinavia
+DEN        = "countries/Denmark.txt"
+FIN        = "countries/Finland.txt"
+NOR        = "countries/Norway.txt"
+SCA        = "countries/Scandinavia.txt"
+SWE        = "countries/Sweden.txt"
+
+##LED Eastern Europe
+GRM	     = "countries/Great Moravia.txt"
+
+##LED Russia
+BLO        = "countries/Beloozero.txt"
+MUS        = "countries/Muscovy.txt"
+NOV        = "countries/Novgorod.txt"
+TVR        = "countries/Tver.txt"
+VLA        = "countries/Vladimir.txt"
+YAR        = "countries/Yaroslavl.txt"
+
 
 ##HPM
 PNK        ="countries/Pontianak.txt"
@@ -311,13 +331,6 @@ ARA        = "countries/Arabia.txt"
 BYE        = "countries/Belarus.txt"
 PLC        = "countries/Poland-Lithuania.txt"
 UBD        = "countries/United Baltic Provinces.txt"
-
-# Scandinavia
-DEN        = "countries/Denmark.txt"
-FIN        = "countries/Finland.txt"
-NOR        = "countries/Norway.txt"
-SCA        = "countries/Scandinavia.txt"
-SWE        = "countries/Sweden.txt"
 
 # Western Europe
 BEL        = "countries/Belgium.txt"

@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = HRE
+controller = HRE
+add_core = HRE
 trade_goods = fruit
 life_rating = 33
 #state_building = {

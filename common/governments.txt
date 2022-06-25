@@ -103,3 +103,13 @@ theocracy = {
     election = no
     appoint_ruling_party = yes
 }
+
+autonomous_dependency = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+
+
+    election = no
+    appoint_ruling_party = yes
+}

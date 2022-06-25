@@ -1,6 +1,6 @@
-owner = PAR
-controller = PAR
-add_core = PAR
+owner = HRE
+controller = HRE
+add_core = HRE
 add_core = ITA
 trade_goods = iron
 life_rating = 35

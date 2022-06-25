@@ -1,8 +1,7 @@
-owner = PRU
-controller = PRU
-add_core = PRU
+owner = GRM
+controller = GRM
+add_core = GRM
 add_core = SLS
-add_core = GER
 trade_goods = grain
 life_rating = 40
 1861.1.1 = {

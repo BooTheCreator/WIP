@@ -1,7 +1,6 @@
-owner = BRE
-controller = BRE
-add_core = BRE
-add_core = GER
+owner = WES
+controller = WES
+add_core = WES
 trade_goods = fish
 life_rating = 40
 naval_base = 1
