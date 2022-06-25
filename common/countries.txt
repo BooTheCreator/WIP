@@ -25,6 +25,11 @@ TVR        = "countries/Tver.txt"
 VLA        = "countries/Vladimir.txt"
 YAR        = "countries/Yaroslavl.txt"
 
+##LED Steppe
+
+DZU        = "countries/Dzungar Khanate.txt"
+KYL        = "countries/Kalmyk Khanate.txt"
+
 
 ##HPM
 PNK        ="countries/Pontianak.txt"

@@ -1,6 +1,6 @@
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = iron
 life_rating = 34
 railroad = 1

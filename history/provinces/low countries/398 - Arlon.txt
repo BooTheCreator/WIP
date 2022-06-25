@@ -1,6 +1,6 @@
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = WLL
 add_core = LUX
 trade_goods = coal
