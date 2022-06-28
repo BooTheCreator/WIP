@@ -1,3 +1,4 @@
+#Roman Vassals
 #Byzantine - Montenegro
 substate = {
     first = BYZ
@@ -38,12 +39,103 @@ substate = {
     end_date = 1936.1.1
 }
 
-#HRE - Barcelona
+#French Vassals
+#FRA - Barcelona
 vassal = {
-    first = HRE
+    first = FRA
     second = CAT
     start_date = 1836.1.1
     end_date = 1936.1.1
+}
+
+#FRA - Burgundy
+substate = {
+    first = FRA
+    second = BRG
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#FRA - Anjou
+substate = {
+    first = FRA
+    second = ANJ
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#FRA - Aquitania
+substate = {
+    first = FRA
+    second = AQT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#FRA - Brittany
+substate = {
+    first = FRA
+    second = BRT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#FRA - Flanders
+substate = {
+    first = FRA
+    second = FLA
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#FRA - Toulouse
+substate = {
+    first = FRA
+    second = TOL
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#FRA - Vermandios
+substate = {
+    first = FRA
+    second = VER
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#Moravian Vassals
+#Great Moravia - Pannonia
+substate = {
+	first = GRM
+	second = PNO
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Great Moravia - Posen
+substate = {
+	first = GRM
+	second = PZN
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+#Great Moravia - Mazovia
+substate = {
+	first = GRM
+	second = MZO
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+
+#Great Moravia - Avaria
+substate = {
+	first = GRM
+	second = SIE
+	start_date = 1836.1.1
+	end_date = 1936.1.1
 }
 
 #Lithuania - Moldovia
@@ -54,6 +146,7 @@ substate = {
     end_date = 1936.1.1
 }
 
+#Swedish Vassals
 #Sweden - Estonia
 substate = {
     first = SWE

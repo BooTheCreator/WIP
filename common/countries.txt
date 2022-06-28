@@ -3,6 +3,15 @@
 # Special countries...
 REB     =     "countries/rebels.txt"
 
+##LED French Duchies
+ANJ        = "countries/Anjou.txt"
+AQT        = "countries/Aquitania.txt"
+BRG        = "countries/Burgundy.txt"
+BRT        = "countries/Brittany.txt"
+FLA        = "countries/Flanders.txt"
+TOL        = "countries/Toulouse.txt"
+VER        = "countries/Vermandios.txt"
+
 ##LED Europe
 ENG        = "countries/The Bryten Kingdom.txt"
 HRE        = "countries/Holy Roman Empire.txt"
@@ -16,11 +25,17 @@ SWE        = "countries/Sweden.txt"
 
 ##LED Eastern Europe
 GRM	     = "countries/Great Moravia.txt"
+MZO        = "countries/Mazovia.txt"
+PNO        = "countries/Pannonia.txt"
+PZN        = "countries/Poznan.txt"
 
 ##LED Russia
 BLO        = "countries/Beloozero.txt"
+GLH        = "countries/Galich.txt"
 MUS        = "countries/Muscovy.txt"
-NOV        = "countries/Novgorod.txt"
+NVG        = "countries/Novgorod.txt"
+NZN        = "countries/Nizhni Novgorod.txt"
+RYZ        = "countries/Ryazan.txt"
 TVR        = "countries/Tver.txt"
 VLA        = "countries/Vladimir.txt"
 YAR        = "countries/Yaroslavl.txt"
@@ -131,7 +146,6 @@ ALS        = "countries/Elsass.txt"
 ATR        = "countries/Asturias.txt"
 BAN        = "countries/Banat.txt"
 BKV        = "countries/Bukovina.txt"
-BRT        = "countries/Brittany.txt"
 BSQ        = "countries/Basqueland.txt"
 CRS        = "countries/Corsica.txt"
 DLM        = "countries/Dalmatia.txt"
@@ -154,7 +168,6 @@ DNB        = "countries/Danubian Federation.txt"
 LUZ        = "countries/Luzica.txt"
 RHI        = "countries/Rhineland.txt"
 PML        = "countries/Pomerelia.txt"
-PZN        = "countries/Poznan.txt"
 SLS        = "countries/Silesia.txt"
 WES        = "countries/Westfalen.txt"
 
@@ -340,7 +353,6 @@ UBD        = "countries/United Baltic Provinces.txt"
 # Western Europe
 BEL        = "countries/Belgium.txt"
 CAT        = "countries/Catalonia.txt"
-FLA        = "countries/Flanders.txt"
 IRE        = "countries/Ireland.txt"
 NET        = "countries/Netherlands.txt"
 POR        = "countries/Portugal.txt"

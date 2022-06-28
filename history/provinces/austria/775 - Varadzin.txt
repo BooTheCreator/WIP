@@ -1,5 +1,6 @@
-owner = CRO
-controller = CRO
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = CRO
 trade_goods = wool
 life_rating = 35

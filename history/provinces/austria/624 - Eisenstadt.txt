@@ -1,6 +1,6 @@
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = GRM
+controller = GRM
+add_core = GRM
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }

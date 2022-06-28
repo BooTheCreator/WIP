@@ -1,6 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = NOV
+owner = NVG
+controller = NVG
+add_core = NVG
 trade_goods = timber
 terrain = boreal
 life_rating = 10

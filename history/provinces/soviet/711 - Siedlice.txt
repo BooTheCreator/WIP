@@ -1,7 +1,6 @@
-owner = GRM
-controller = GRM
-add_core = GRM
-add_core = CPL
+owner = LIT
+controller = LIT
+add_core = LIT
 add_core = POL
 trade_goods = cattle
 life_rating = 35

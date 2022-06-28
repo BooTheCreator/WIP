@@ -1,5 +1,5 @@
-owner = KYL
-controller = KYL
-add_core = KYL
+owner = KAZ
+controller = KAZ
+add_core = KAZ
 trade_goods = wool
 life_rating = 35

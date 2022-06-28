@@ -1,6 +1,6 @@
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = LOM
+controller = LOM
+add_core = LOM
 trade_goods = coal
 life_rating = 31
 party_loyalty = {

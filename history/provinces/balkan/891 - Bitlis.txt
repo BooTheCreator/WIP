@@ -1,6 +1,6 @@
-owner = BTL
-controller = BTL
-add_core = TUR
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = ARM
 add_core = BTL
 add_core = KDS

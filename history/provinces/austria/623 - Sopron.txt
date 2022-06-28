@@ -1,6 +1,7 @@
-owner = AUS
-controller = AUS
-add_core = HUN
+owner = PNO
+controller = PNO
+add_core = PNO
+add_core = GRM
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 3 }

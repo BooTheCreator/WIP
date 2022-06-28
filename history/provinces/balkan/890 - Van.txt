@@ -1,6 +1,6 @@
-owner = BDN
-controller = BDN
-add_core = TUR
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = BDN
 add_core = ARM
 add_core = KDS

@@ -1,7 +1,7 @@
-owner = AUS
-controller = AUS
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = SER
-add_core = HUN
 add_core = BAN
 trade_goods = timber
 life_rating = 35

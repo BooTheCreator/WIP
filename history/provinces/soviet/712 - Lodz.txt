@@ -1,5 +1,6 @@
-owner = GRM
-controller = GRM
+owner = MZO
+controller = MZO
+add_core = MZO
 add_core = GRM
 add_core = CPL
 add_core = POL

@@ -1,6 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = DON
+owner = CIR
+controller = CIR
+add_core = CIR
 trade_goods = wool
 life_rating = 35

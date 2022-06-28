@@ -1,6 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = NOV
+owner = NVG
+controller = NVG
+add_core = NVG
 add_core = KRL
 trade_goods = timber
 life_rating = 35

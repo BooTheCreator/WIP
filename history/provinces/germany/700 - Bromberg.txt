@@ -1,5 +1,5 @@
-owner = GRM
-controller = GRM
+owner = PZN
+controller = PZN
 add_core = GRM
 add_core = PZN
 trade_goods = grain

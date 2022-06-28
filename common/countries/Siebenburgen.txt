@@ -1,4 +1,5 @@
 color = { 211  207  173 }
+autonomous_dependency = { 79  33  47 }
 graphical_culture = EuropeanGC
 
 party = {
